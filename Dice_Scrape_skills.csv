@@ -1,0 +1,579 @@
+Skill,Relationship_1,Relationship_2,Relationship_3
+Aplus,Network+,Field service,Repair
+A%26%2347B+testing,Adobe Target,Multivariate testing,Adobe SiteCatalyst
+ACAPS,CACS,Hogan,Assembly language
+ACD,PBX,Voicemail,Avaya PBX
+ACF2,RACF,NASCO,Job Entry Subsystem 2/3
+ACH,Web browsers,Payments,NACHA
+ACL,IPsec,SDTM,MedDRA
+ACMT,Microsoft Entourage,Apple,OS X
+ACORD,Policy administration,Insurance,Property & casualty insurance
+ACS,Cisco ASC,TACACS,HSC
+ACS+Systech+Integrator,,,
+ACSLS,NetBackup,Data domain,NDMP
+ACT,WAIK,Compatibility testing,MDT
+ADA,WCAG,Accessibility,Section 508
+ADABAS,NATURAL,EntireX,Assembly language
+ADDIE,Instructional design,Andragogy,Adobe Captivate
+ADDM,Configuration management database,BMC Remedy,BPPM
+ADF,Oracle ADF,Oracle WebCenter,JDeveloper
+ADFS,Windows Identity Foundation,WIF,SAML
+ADINA,,,
+ADMT,Quest Migration Manager,Active Directory,Quest
+ADO,ADO.NET,OLE DB,ASP
+ADO.NET,ASP.NET,ADO,WCF
+ADP,,,
+ADP+Payroll,HR management system,Payroll,HR management system administration
+ADS,Astrodynamics,STK,HFSS
+ADSL,PPP,ATM,Frame Relay
+ADSO,IDMS,CAS,Panvalet
+ADTRAN,Passive optical network,DSLAM,FTTX
+AERS,Argus,RDC,Oracle Clinical
+AET,SAP EEWB,SAP CRM,CRM WebClient UI
+AFATDS,CBT,C4ISR,TOC
+AFDX,,,
+AFM,F5,GTM,Microscope
+AFS,,,
+AGIS,Oracle Web ADI,Oracle Forms,Oracle Designer
+AHLTA,CHCS,Tier 2,Tuxedo
+AIA,,,
+AIM,Oracle EBS,Oracle Applications,EBS
+ALE,IDoc,BAPI,SAP BADI
+ALM,,,
+AMBA,Specman,SVA,SystemC
+AME,Oracle EBS,OAB,Oracle Application Framework
+AML,Know your customer,MANTAS,OFAC
+AMPL,,,
+AMQP,SBS,LXC,Message queues
+ANCILE+uPerform,,,
+ANOVA+gauge+R%26R,GD&T;,PPAP,Inspection
+ANSI,Earned value management,EVMS,Electrical engineering
+ANSI+C,JOBTRAC,Socket programming,Aviation
+ANTLR,Computational linguistics,Natural language processing,Information retrieval
+AOP,,,
+AP+Stylebook,Copywriting,Journalism,Copy editing
+APD,,,
+APEX,Visualforce,Force.com,Salesforce.com
+API,RESTful,JSON,API management
+API+QA,TestNG,GUI QA,Test suites
+API+management,API,Epiphany,RESTful
+APICS,Supply chain management,Supply chain planning,Demand planning
+APL,Applied physics,TDR,KDB
+APQP,PPAP,ISO 14000,ANOVA gauge R&R;
+AQT,PROC SQL,SAS/ETS,Flat file
+ARINC,ARINC 429,Avionics,DO-254
+ARINC+424,,,
+ARINC+429,ARINC,Avionics,DO-254
+ARINC+573,,,
+ARINC+653,,,
+ARINC+661,,,
+ARINC+818,,,
+ARINC+825,,,
+ARINC+826,,,
+ARINC+828,,,
+ARIS,CDP,Process modeling,SIPOC
+ARM,MIPS architecture,Embedded systems,PowerPC
+ARM+Assembler,,,
+ARM+architecture,Green Hills,IPMI,Computer architecture
+ARP4754,,,
+ARP4761,,,
+AS%26%2347400+Control+Language,Counterintelligence,IBM RPG,SQLRPGLE
+AS2,GXS,EDI,VAN
+AS3,Adobe Flash,ActionScript,Adobe Flash Builder
+AS9100,QMS,Corrective and preventive action,ISO 9000
+ASA,Cisco PIX,Cisco FWSM,Nexus
+ASAP+Methodology,SPO,SAP implementation,SPRO
+ASC+X12,Medicaid,Health care,Medicare
+ASCP,GOP,Demantra,Oracle ASCP
+ASIC,RTL,Verilog,SystemVerilog
+ASM,Oracle RAC,Oracle RMAN,Oracle Data Guard
+ASP,Visual Basic,ASP.NET,ADO.NET
+ASP.NET,.NET,C#,WCF
+ASP.NET+AJAX,WWF,WCF,Telerik
+ASP.NET+MVC,Entity Framework,MVC,LINQ
+ASTM,RAS,Packaging engineering,Electronic engineering
+ATE,LabWindows/CVI,IC,ATPG
+ATG,,,
+ATG+Commerce,User experience management,MPE,Microsoft Commerce Server
+ATL,Windows API,MFC,COM
+ATLAS,VFD,RWD,DFP
+ATM,Frame Relay,PPP,ADSL
+ATO,Information assurance,Certification and accreditation,SCAP
+ATP,DO-160,Available-to-promise,Aerospace
+ATPG,MBIST,DFT,SDF
+ATS,,,
+AUC,,,
+AUT,SugarCRM,Command Prompt,Gray box testing
+AUTOSAR,CANalyzer,CANoe,Automotive
+AV,,,
+AVC,,,
+AVL,ECAD,MCAD,Windchill
+AVR,Arduino,Microcontrollers,MCU
+AVS,Allen-Bradley,Control engineering,Project finance
+AWD,CSC,CCMS,OSSEC
+AWE,PeopleSoft AWE,Absence management,PS Query
+AWK,SED,Korn shell,Regular expression
+AWR,Statspack,TKProf,SQL Trace
+AWS+Elastic+Beanstalk,Amazon DynamoDB,Amazon CloudFront,Amazon S3
+AWStats,,,
+AWT,JFC,Swing,SWT
+AX,,,
+AXI,SystemVerilog,UVM,VMM
+Ab+Initio,EME,GDE,BRE
+Abaqus,Finite element,FEA,CAE
+Abend%26%2345AID,Fileaid,Xpediter,Panvalet
+Ableton+Live,,,
+Absence+management,PeopleSoft AWE,AWE,PeopleSoft
+Acceptance+testing,Test scripts,Test plans,SIT
+Acceptance+testing+management,Acceptance testing,SIT,Application lifecycle management
+Access+control,CCTV,Physical security,Security
+Accessibility,WCAG,Section 508,NVDA
+Account+determination,SD,Invoice verification,SAP COPA
+Account+management,Business development,Prospecting,Sales
+Account+reconciliation,General journal,Oracle General Ledger,Accounting
+Accountability,Budget,Leadership,Project planning
+Accounting,GAAP,General journal,Financial statements
+Accounting+management,General journal,Accounting,GAAP
+Accounting+software,Medicare,ICD-9,Medicaid
+Accounts+payable,Accounts receivable,General Ledger,PO
+Accounts+receivable,Accounts payable,General Ledger,Oracle Financials
+Accounts+receivable+management,Bank Accounting,Asset accounting,GP
+AccuRev,AnthillPro,Build automation,Continuous integration
+Accurint,,,
+Acoustics,Audio,Data acquisition,CAB
+Acquisition,,,
+Acquisition+management,Logistics management,Cost estimation,Enhanced 9-1-1
+Acronis,Ghost,Norton AntiVirus,Sysprep
+Acronis+True+Image,,,
+Actimize,CDD,RCM,AML
+ActionScript,Adobe Flash Builder,Apache Flex,Adobe Flash
+Active+Directory,Group policy,Microsoft Windows Server 2003,Microsoft Windows Server
+Active+ingredient,,,
+Active+learning,Reading comprehension,Active listening,Video game development
+Active+listening,Reading comprehension,ConnectWise,Active learning
+ActivePython,,,
+ActiveReports,IBM Cognos BI,IBM Cognos Framework Manager,Report Studio
+ActiveSync,BlackBerry Enterprise Server,Microsoft Exchange,Messaging
+ActiveVOS,VOS,Stratus,XQuery
+ActiveX,MFC,Visual C++,COM
+Activity+diagrams,Sequence diagrams,Use cases,UML
+Activity%26%2345based+management,,,
+Actix,TEMS,EVDO,RF optimization
+Actuate,BIRT,Maximo,Electromechanics
+Ad+hoc+reporting,Reporting,Dashboard,Data analysis
+Ada,WCAG,Accessibility,Section 508
+Adabas+D,,,
+Adaptability,Computer troubleshooting,Communication skills,Attention to detail
+Adapter,webMethods,Microsoft BizTalk Server,TIBCO
+Adapter+management,,,
+AdminStudio,Software packaging,Wise Package Studio,Microsoft App-V
+Administrative+management,CISO,Information governance,GroupWise
+Administrative+support,Office supplies,Travel management,Filing
+Adobe,Adobe SiteCatalyst,Web analytics,Adobe Analytics
+Adobe+AIR,Adobe Flash Builder,ActionScript,PureMVC
+Adobe+Acrobat,Adobe FrameMaker,Adobe RoboHelp,Smartforms
+Adobe+After+Effects,Cinema 4D,Motion graphic design,Motion graphics
+Adobe+Analytics,Adobe SiteCatalyst,Web analytics,Multivariate testing
+Adobe+Atmosphere,,,
+Adobe+Audition,,,
+Adobe+Authorware,CTT+,CDIA+,GoToMeeting
+Adobe+Brackets,,,
+Adobe+Bridge,,,
+Adobe+BrowserLab,,,
+Adobe+CQ,Apache Felix,Apache Sling,OSGi
+Adobe+CS,Adobe Illustrator,Adobe Photoshop,Web design
+Adobe+Captivate,E-learning,Instructional design,Camtasia
+Adobe+Certified+Expert,,,
+Adobe+ColdFusion+Builder,,,
+Adobe+Connect,Microsoft Live Meeting,Web conferencing,WebEx
+Adobe+Content+Server,,,
+Adobe+Contribute,,,
+Adobe+Creative+Cloud,Sublime Text,Balsamiq,Axure
+Adobe+Device+Central,,,
+Adobe+Director,Art director,Production artist,Adobe CS
+Adobe+Distiller,,,
+Adobe+Dreamweaver,Adobe Photoshop,Adobe Illustrator,Adobe Fireworks
+Adobe+Dynamic+Link,,,
+Adobe+Edge,,,
+Adobe+Encore,,,
+Adobe+Experience+Manager,Adobe CQ,Apache Felix,Apache Sling
+Adobe+FDK,,,
+Adobe+Fireworks,Adobe Photoshop,Adobe Illustrator,Adobe Dreamweaver
+Adobe+Flash,AS3,ActionScript,Adobe Photoshop
+Adobe+Flash+Builder,Apache Flex,Cairngorm,ActionScript
+Adobe+Flash+Cast,,,
+Adobe+Flash+Media+Server,RTMP,HLS,Streaming
+Adobe+Flash+Remoting,,,
+Adobe+Font+Folio,,,
+Adobe+FrameMaker,Adobe RoboHelp,Online Help,MadCap
+Adobe+FreeHand,Multimedia production,Adobe Fireworks,Adobe Dreamweaver
+Adobe+Glyph+List,,,
+Adobe+GoLive,,,
+Adobe+Illustrator,Adobe Photoshop,Adobe Fireworks,Adobe CS
+Adobe+ImageReady,,,
+Adobe+InCopy,,,
+Adobe+InDesign,Adobe Illustrator,Adobe Photoshop,Adobe CS
+Adobe+JRun,,,
+Adobe+Kuler,,,
+Adobe+LiveCycle,Adobe LiveCycle Designer,Oracle Documaker,Adobe
+Adobe+LiveCycle+Designer,Adobe LiveCycle,Oracle Documaker,Adobe Acrobat
+Adobe+Marketing+Cloud,SAINT,Adobe SiteCatalyst,Job interview
+Adobe+Media+Optimizer,,,
+Adobe+Muse,,,
+Adobe+Ovation,,,
+Adobe+PageMaker,QuarkXPress,CorelDRAW,Desktop publishing
+Adobe+PageMill,,,
+Adobe+PhotoDeluxe,,,
+Adobe+Photoshop,Adobe Illustrator,Adobe Fireworks,Web design
+Adobe+Photoshop+Lightroom,,,
+Adobe+Pixel+Bender,,,
+Adobe+Prelude,,,
+Adobe+Premiere,Video editing,Final Cut Pro,Adobe After Effects
+Adobe+Presenter,,,
+Adobe+Proto,,,
+Adobe+RoboHelp,Adobe FrameMaker,MadCap,Online Help
+Adobe+Shockwave,,,
+Adobe+SiteCatalyst,Web analytics,Adobe Analytics,Adobe
+Adobe+Social,,,
+Adobe+Soundbooth,,,
+Adobe+Story,,,
+Adobe+Target,A/B testing,Multivariate testing,Adobe Analytics
+Adobe+Technical+Communication+Suite,,,
+Adobe+Version+Cue,,,
+Adobe+Visual+Communicator,,,
+Adobe+Wallaby,,,
+Adobe+eLearning+Suite,,,
+Ads+design,Advertising,Adobe Flash,Online advertising
+Adult+education,Instructional design,Blended learning,E-learning
+Advanced+Wireless+Services,,,
+Advanced+analytics,Predictive analytics,Market segmentation,Predictive modelling
+Advent,Money management,OSLO,Investment management
+Advent+Axys,,,
+Advent+Black+Diamond,,,
+Advent+Bluesky,,,
+Advent+Corporate+Actions,,,
+Advent+Custodial+Data,,,
+Advent+Geneva,RSL,IFRS,Middle office
+Advent+Moxy,,,
+Advent+OnDemand,,,
+Advent+Partner,,,
+Advent+Portfolio+Exchange,,,
+Advent+Revenue+Center,,,
+Advent+Rules+Manager,,,
+Advent+Syncova,,,
+Advent+Tamale+RMS,,,
+Advent+Tradex,,,
+Advertising,Online advertising,SEM,Media
+Advertising+mail,Marketing management,Direct marketing,Marketing
+Aerodynamics,GNC,Thermal management,CFD
+Aeronautics,Military,Satellite,Aviation
+Aerospace,C4ISR,DO-160,ATP
+Affiliate+management,,,
+Affiliate+marketing,Paid search,Mobile marketing,Digital marketing
+Affinity+propagation,,,
+Affordable+Care+Act,HIX,MITA,Health insurance
+Agency+management,Resource planning,HP Operations Orchestration,CA Gen
+Aggregator,Hyperic,Swing,FLOAD
+Agile,Scrum,Sprint,Scrum master
+Agile+PLM,PQM,PCM,PLM
+Agile+coaching,Extreme programming,Kanban,Scrum
+Agile+management,Scrum master,IT project management,Scrum
+Agile+testing,FitNesse,Exploratory testing,Behavior-driven development
+Agilent,ELN,WWAN,W-CDMA
+Agilent+ADS,RFIC,Cadence Virtuoso,RF
+Agilent+VEE,,,
+Air+command,,,
+Air+traffic+management,,,
+AirMagnet,Site survey,CWNA,Wireless network
+AirWatch,Mobile device management,MobileIron,Mobile devices
+Aircraft+maintenance,Mechanic,SCA,Pneumatics
+Ajax,jQuery,JavaScript,Dojo
+Ajillus,,,
+Akamai,Keynote DeviceAnywhere,Internship,Robotium
+Akka,Scala,Play Framework,SBT
+Alcatel%26%2345Lucent,Nortel,Tellabs,5ESS switch
+Aldon,MIMIX,IBM i,IBM RPG
+Alfresco,CMIS,WinSCP,MyEclipse
+Algorithmic+trading,Trading,Equity,Front office
+Algorithms,Machine learning,Data structure,MATLAB
+Allegro,Schematic,Librarian,Cadence
+Allen%26%2345Bradley,Control engineering,Ladder logic,Programmable logic controller
+Alliance+management,Amazon SimpleDB,Partner relationship management,Riverbed
+Allscripts,GR,CPOE,MEDITECH
+Altera,FPGA,Altera Quartus,Xilinx
+Altera+Quartus,Xilinx ISE,Altera,FPGA
+Alteryx,Google Maps API,Econometrics,Qualitative Analysis
+Altiris,Asset management,SMP,Wise
+Altiris+Deployment+Solution,Symantec Management Platform,Cisco VPN,Symantec Endpoint Protection
+Altiris+management,,,
+Altium,PCB,OrCAD,PADS
+Altium+Designer,Power electronics,WAVE,PIC
+Amanda,Blackbaud,Community development,Exploratory testing
+Amazon+CloudFront,Amazon Route 53,Amazon RDS,Amazon S3
+Amazon+DynamoDB,Amazon RDS,AWS Elastic Beanstalk,Amazon CloudFront
+Amazon+EBS,,,
+Amazon+EC2,Amazon S3,Amazon Web Services,Amazon Route 53
+Amazon+EMR,Cascading,Apache Oozie,Apache HBase
+Amazon+FPS,,,
+Amazon+Glacier,,,
+Amazon+Mechanical+Turk,,,
+Amazon+RDS,Amazon Route 53,Amazon CloudFront,Amazon S3
+Amazon+Redshift,Amazon DynamoDB,AWS Elastic Beanstalk,Amazon RDS
+Amazon+Route+53,Amazon CloudFront,Amazon RDS,Amazon S3
+Amazon+S3,Amazon EC2,Amazon Route 53,Amazon Web Services
+Amazon+SES,AERS,ARM architecture,IPMI
+Amazon+SQS,Amazon DynamoDB,Amazon S3,Amazon RDS
+Amazon+SimpleDB,Alliance management,Amazon SQS,Amazon Web Services
+Amazon+VPC,,,
+Amazon+Web+Services,Amazon EC2,Amazon S3,Amazon Route 53
+Ambulatory+care,Epic,Medical records,Pharmacy technician
+Amdocs,CES,Amdocs Clarify CRM,Business support systems
+Amdocs+Clarify+CRM,Business support systems,Amdocs,3G
+Ample+SDK,,,
+Analog+circuits,CMOS,Mixed-signal integrated circuit,Power management
+Analog+electronics,PADS,DxDesigner,Power supply
+Analysis+Studio,Report Studio,IBM Cognos Query Studio,IBM Cognos Framework Manager
+Analysis+of+algorithms,Artificial intelligence,Neural networks,Computer forensics
+Analysis+of+variance,Financial analysis,SAS/Access,SAS/ODS
+Analyst+relations,Corporate communications,Public relations,Media relations
+Analyst%27s+Notebook,,,
+Analytical+chemistry,HPLC,Chromatography,UV
+Analytical+mechanics,,,
+Analytical+skill,Problem solving,Communication skills,Business requirements
+Analytics,Data mining,Business analytics,Business intelligence
+Andragogy,Instructional design,ADDIE,Adobe Captivate
+Android,Near field communication,GPS,HDMI
+Angel,Cascading,Retargeting,Amazon EMR
+AngularJS,Backbone.js,Bootstrap,Node.js
+Animation,3D animation,Autodesk Maya,Texturing
+Ansible,Chef,DevOps,Puppet
+Ansoft+Designer,,,
+Ansys,CFD,Computational fluid dynamics,Fluid mechanics
+Antennas,RF,DAS,Microwave
+AnthillPro,AccuRev,Continuous integration,Hudson
+Antivirus,McAfee,Endpoint protection,Intrusion prevention
+Apache+Abdera,,,
+Apache+Accumulo,CouchDB,Apache Storm,NoSQL
+Apache+ActiveMQ,Apache ServiceMix,Apache Camel,BIX
+Apache+Ant,Apache Maven,Hudson,Jenkins
+Apache+Aries,,,
+Apache+Attic,,,
+Apache+Avalon,,,
+Apache+Avro,Apache Thrift,Apache ZooKeeper,Distributed computing
+Apache+Axis,POJO,JProbe,WSDL
+Apache+Axis2,Apache CXF,Vaadin,JIBX
+Apache+Beehive,,,
+Apache+Buildr,,,
+Apache+CXF,Apache Axis2,JAX-RS,Spring
+Apache+Camel,Apache ServiceMix,Apache ActiveMQ,BIX
+Apache+Cassandra,NoSQL,MongoDB,CouchDB
+Apache+Cayenne,,,
+Apache+Chemistry,,,
+Apache+Click,,,
+Apache+CloudStack,LXC,OpenStack,KVM
+Apache+Cocoon,,,
+Apache+Commons,CFX,iText,Apache Log4j
+Apache+Continuum,,,
+Apache+Cordova,PhoneGap,jQuery Mobile,Mobile development
+Apache+Derby,,,
+Apache+Directory,,,
+Apache+Drill,,,
+Apache+Felix,Apache Sling,Adobe CQ,OSGi
+Apache+Flex,Adobe Flash Builder,Cairngorm,ActionScript
+Apache+Flume,Apache Sqoop,MapReduce,Apache Hive
+Apache+Forrest,,,
+Apache+Geronimo,Charles Web Debugging Proxy,Gradle,Application server
+Apache+Gump,,,
+Apache+HBase,MapReduce,Apache Hive,Apache Pig
+Apache+HTTP+Server,Web server,Application server,Apache Tomcat
+Apache+Hadoop,Big data,HDFS,Apache Mahout
+Apache+Hama,,,
+Apache+Harmony,,,
+Apache+Hive,Apache Pig,MapReduce,Apache HBase
+Apache+HiveMind,,,
+Apache+Isis,,,
+Apache+Ivy,,,
+Apache+JMeter,Load testing,HP Performance Center,HP LoadRunner
+Apache+JServ+Protocol,,,
+Apache+Jackrabbit,Apache Sling,Cappuccino,Apache Felix
+Apache+James,,,
+Apache+Jelly,,,
+Apache+Kafka,Apache Storm,Apache ZooKeeper,Apache Spark
+Apache+Lenya,,,
+Apache+Log4j,JDBC,Java Servlets,Apache Ant
+Apache+Log4net,ReSharper,NHibernate,TeamCity
+Apache+Lucene,Apache Solr,Search engines,Elasticsearch
+Apache+MINA,Socket programming,RTMP,Amazon SQS
+Apache+Mahout,Apache Hadoop,Big data,HDFS
+Apache+Maven,NetBeans,Eclipse,GlassFish
+Apache+Mobile+Filter,,,
+Apache+MyFaces,,,
+Apache+Nutch,Apache Tika,Semantic search,Apache Lucene
+Apache+ODE,,,
+Apache+OFBiz,,,
+Apache+Oozie,Apache HBase,MapReduce,Apache Hive
+Apache+OpenEJB,,,
+Apache+OpenJPA,JAAS,JAXP,SAX
+Apache+OpenOffice,Interest rate derivative,Bonds,Foreign exchange
+Apache+POI,RESTeasy,iText,Apache CXF
+Apache+Pig,Apache Hive,MapReduce,Apache HBase
+Apache+Pivot,,,
+Apache+Qpid,Reliability engineering,CouchDB,Demand forecasting
+Apache+Roller,,,
+Apache+ServiceMix,BIX,Apache ActiveMQ,Apache Camel
+Apache+Shale,,,
+Apache+Shindig,,,
+Apache+Shiro,Google Guice,JAX-RS,JAX-WS
+Apache+Sling,Apache Felix,Adobe CQ,OSGi
+Apache+Solr,Apache Lucene,Search engines,Elasticsearch
+Apache+Spark,Apache Storm,Apache Kafka,Apache HBase
+Apache+Sqoop,Apache Flume,Apache Pig,Apache Hive
+Apache+Storm,Apache Kafka,Apache Spark,Apache ZooKeeper
+Apache+Struts,Spring,JSP,J2EE
+Apache+Subversion,Revision control,Jenkins,Hudson
+Apache+Synapse,,,
+Apache+Tapestry,Ambulatory care,Vaadin,Apache Wicket
+Apache+Thrift,Apache Avro,Apache ZooKeeper,Distributed computing
+Apache+Tika,Apache Nutch,Semantic search,Apache Lucene
+Apache+Tiles,JSTL,Apache Struts,JSP
+Apache+TomEE,,,
+Apache+Tomcat,Eclipse,Apache Maven,Apache HTTP Server
+Apache+Torque,,,
+Apache+Tuscany,,,
+Apache+Velocity,Scrum master,Sprint,Scrum
+Apache+Wicket,Apache Tapestry,Vaadin,J2EE
+Apache+Wink,,,
+Apache+XAP,,,
+Apache+XML,GeoServer,PostGIS,OpenLayers
+Apache+ZooKeeper,Apache Kafka,Apache Avro,Apache HBase
+Aperture,iDirect,DCIM,Space planning
+Apex,Visualforce,Force.com,Salesforce.com
+AppDynamics,Venture capital,Revenue growth,Software performance management
+AppSense,Citrix XenDesktop,Citrix XenApp,Citrix
+AppSense+Management+Suite,Citrix Provisioning Services,VDI,Citrix XenDesktop
+AppWorx,Automic,Job scheduling,Data Transfer Process
+Appcelerator,PhoneGap,RhoMobile,Mobile development
+Appian,Process flow,Server architecture,Scope management
+Appirio,,,
+Apple,OS X,JAMF Casper Suite,AppleScript
+Apple+Keynote,,,
+Apple+Motion,,,
+Apple+Pages,,,
+Apple+Remote+Desktop,XSAN,OS X Server,RAIDS
+AppleScript,JAMF Casper Suite,Apple,OS X
+Applets,Siebel eScript,TEM,BigFix
+Applicant+tracking+system,NCR,Recruitment,Boolean search
+Application+analysis,Epic,CPOE,MEDITECH
+Application+engine,PeopleCode,SQR,Component interface
+Application+lifecycle+management,HP ALM,Microsoft TFS,UFT
+Application+server,Web server,Apache HTTP Server,WildFly
+Application+service+automation,,,
+Application+service+management,,,
+Application+virtualization,Microsoft App-V,VMware ThinApp,Software packaging
+Applied+mathematics,Statistics,Data science,Algorithms
+Applied+mechanics,,,
+Applied+physics,APL,Spectroscopy,Serial communication
+Applied+semantics,,,
+Appointment+scheduling,,,
+Apptio,Business management,Cost management,Cost accounting
+Aprimo,MRM,Campaign management,Unica
+Aptana,Zend Studio,phpMyAdmin,Django
+Aqua+Data+Studio,,,
+Arabic,Linguistics,Multilingual,Transcription
+Arbortext,Arbortext Editor,SGML,PTC
+Arbortext+Editor,Arbortext,SGML,PTC
+ArcGIS,Esri,Geographic information system,ArcGIS Server
+ArcGIS+Server,ArcObjects,ArcGIS,ArcSDE
+ArcIMS,ArcView,Cygwin,ArcSDE
+ArcMap,ArcObjects,Geographic information system,ArcGIS Server
+ArcObjects,ArcGIS Server,ArcGIS,ArcMap
+ArcSDE,ArcGIS Server,ArcGIS,Esri
+ArcServer,Geographic information system,ArcMap,Esri
+ArcSight,ESM,SIEM,Security operations
+ArcView,ArcIMS,MapInfo,Geographic information system
+ArchiCAD,,,
+Architecture,,,
+Archiving,Data archiving,IXOS,DART
+Arduino,AVR,Kinect,Microcontrollers
+Arena,PDS,Recruitment,Information management
+Argus,AERS,Pharmacy technician,NDA
+Ariba,Procurement,Buyer,Digital strategy
+Arista,Multicast,OSPF,Border Gateway Protocol
+Art,,,
+Art+Technology+Group,,,
+Art+director,Adobe Director,Creativity,Adobe CS
+Articulate,Presentations,Strategy,Communication skills
+Articulate+Presenter,,,
+Articulate+Storyline,Articulate Studio,E-learning,ILT
+Articulate+Studio,Articulate Storyline,E-learning,ILT
+Artificial+intelligence,Analysis of algorithms,Neural networks,Program development
+Arts+management,,,
+Aruba,Wireless network,Cisco Wireless,Wireless management
+As%26%2345is+process,To-be process,Gap analysis,Process analysis
+Asana,,,
+Aseptic+technique,,,
+Aspect+ACD,,,
+Aspect%26%2345oriented+programming,Dependency injection,Spring.NET,Domain-driven design
+AspectJ,JDO,PrimeFaces,IBM RSA
+Aspen,OEE,Manufacturing execution system,Intergraph
+Aspen+Plus,,,
+Assays,Biochemistry,Next generation sequencing,Cell biology
+Assembly,Mechanical engineering,Soldering,Manufacturing engineering
+Assembly+language,BAL,SMP/E,IPCS
+Asset+accounting,Bank Accounting,NewGL,SAP FICO
+Asset+management,Altiris,Report Writer,Banking
+Assisted+GPS,,,
+Asterisk,FreeSWITCH,VoIP,SIP
+Astrodynamics,ADS,STK,TIBCO Rendezvous
+AtTask,Contract lifecycle management,Strategic Analysis,Web project management
+Atlassian,Confluence,JIRA,FishEye
+Attention+to+detail,Multitasking,Communication skills,Self motivated
+Audacity,,,
+Audio,Acoustics,Audio codecs,Codecs
+Audio+codecs,ThreadX,Audio,Video codecs
+Audio+editing,Pro Tools,Motion graphics,Audio engineering
+Audio+engineering,Audio editing,Pro Tools,Audio
+Audio+mixing,Audiovisual,Camera operations,Crestron Electronics
+Audio+production,Podcast,Videographer,Audiovisual
+Audioconferencing,PGI,Web conferencing,Videoconferencing
+Audiovisual,Videoconferencing,Audio mixing,Crestron Electronics
+Audit,IT audit,Internal audit,Internal control
+Audit+management,Audit,IT audit,Internal audit
+Augmented+reality,Computer graphics,System on a chip,OpenGL ES
+Authentication,Kerberos,SSO,Authorization
+Author%26%2345it,Corel Paint Shop Pro,Release notes,Online Help
+Authorization,Authentication,Continuous monitoring,Security controls
+Auto+mechanic,Physical fitness,CRB,Mechanics
+AutoCAD,Drawing,CAD,Electrical engineering
+AutoCAD+Architecture,,,
+AutoCAD+Civil+3D,CAD administration,MicroStation,Autodesk
+AutoHotkey,,,
+AutoIt,LANDesk Management Suite,LANDesk,VMware ThinApp
+Autodesk,AutoCAD Civil 3D,Autodesk Revit,BIM
+Autodesk+3ds+Max,Texturing,Autodesk Maya,3D computer graphics
+Autodesk+Inventor,Mechanical engineering,Autodesk,SolidWorks
+Autodesk+Maya,MEL,Texturing,Animation
+Autodesk+MotionBuilder,,,
+Autodesk+Mudbox,,,
+Autodesk+Revit,BIM,MEP,SketchUp
+Autodesk+SketchBook+Pro,,,
+Automated+testing,Selenium,Automation,Performance testing
+Automatic+Data+Processing,IPT,SSI,Complex sales
+Automation,Automated testing,Selenium,Selenium WebDriver
+Automic,AppWorx,Job scheduling,Process automation
+Automotive,Automotive engineering,MOST,AUTOSAR
+Automotive+engineering,Automotive,MOST,ISO 14000
+Availability+management,Service level management,Capacity management,COB
+Available%26%2345to%26%2345promise,SAP GATP,ATP,BOP
+Avaya,Communications management,Avaya Session Manager,Avaya CMS
+Avaya+CMS,Avaya,Avaya Session Manager,Communications management
+Avaya+CMS+Supervisor,,,
+Avaya+IP+Office,Avaya,Avaya administration,Avaya PBX
+Avaya+PBX,Avaya,PBX,ACD
+Avaya+Session+Manager,Avaya,Communications management,SBC
+Avaya+administration,PBX,Avaya PBX,Avaya
+Aviation,OPNAV,Aeronautics,Avionics
+Avid,Media Composer,Pro Tools,Digital audio
+Avionics,ARINC,ARINC 429,DO-254
+Axure,OmniGraffle,Balsamiq,Wireframe
+Axway,MFT,SFTP,Connect:Direct
