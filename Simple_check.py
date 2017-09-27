@@ -13,12 +13,4 @@ soup = BeautifulSoup(data)
 for link in soup.find_all('a'):
     print(link.get('href'))
 
-mail.send_mail(sender=sender_address,
-                   to="Umesh Kumar <umeshdhanwal@gmail.com>",
-                   subject="Your account has been approved",
-                   body="""Dear Umesh
 
-Please let us know if you have any questions.
-
-The example.com Team
-""")
