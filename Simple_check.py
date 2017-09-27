@@ -1,9 +1,4 @@
 from bs4 import BeautifulSoup
-import re
-import urllib2
-from getpass import getpass
-from urllib import urlencode
-
 import requests
 
 url = "github.com/GoogleCloudPlatform/reliable-task-scheduling-compute-engine-sample"
