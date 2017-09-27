@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import re
 import urllib2
-from BeautifulSoup import BeautifulSoup
 from getpass import getpass
 from urllib import urlencode
 
